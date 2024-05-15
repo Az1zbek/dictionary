@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "878493929047",
+    "project_id": "mathdictionary-f4765",
+    "storage_bucket": "mathdictionary-f4765.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878493929047:android:c2cb68f999dd71595c1d12",
+        "android_client_info": {
+          "package_name": "com.azizbek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAmokmqYseqMFUy-_F5C0z3gcZ35oEZ8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878493929047:android:0760eab3968c50965c1d12",
+        "android_client_info": {
+          "package_name": "com.example.dictionary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAmokmqYseqMFUy-_F5C0z3gcZ35oEZ8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878493929047:android:054abc5a1a34ac245c1d12",
+        "android_client_info": {
+          "package_name": "com.example.math_dictionary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAmokmqYseqMFUy-_F5C0z3gcZ35oEZ8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878493929047:android:ea02ed9b31f565a75c1d12",
+        "android_client_info": {
+          "package_name": "com.example.math_dictionary2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAmokmqYseqMFUy-_F5C0z3gcZ35oEZ8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878493929047:android:be5f7e9f2a3b12da5c1d12",
+        "android_client_info": {
+          "package_name": "zikrulla.production.dictionary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAmokmqYseqMFUy-_F5C0z3gcZ35oEZ8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
